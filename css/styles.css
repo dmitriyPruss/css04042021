@@ -1,5 +1,7 @@
 *{
     margin:0;
+}
+body{
     font-family: 'Times New Roman', Times, serif; 
 }
 footer>ul{
@@ -8,7 +10,7 @@ footer>ul{
 ul~p{
     text-decoration:red wavy underline;
 }
-h2~p{
+article+article {
     background-color: blue;
 }
 h2+p{
