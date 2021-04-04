@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    font-family: 'Times New Roman', Times, serif; 
+}
+footer>ul{
+    border: 2px dotted green;
+}
+ul~p{
+    text-decoration:red wavy underline;
+}
+
+h2~p{
+    background-color: blue;
+}
+h2+p{
+    background-color: yellow; 
+ }
+article>p{
+    text-shadow: 3px -5px 0.1em orange;
+}

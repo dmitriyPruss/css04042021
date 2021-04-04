@@ -1,2 +1,4 @@
 # ignore flies in folder .vscode
 ./vscode
+
+!.gitignore
